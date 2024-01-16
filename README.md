@@ -1,0 +1,2 @@
+# SouledStoreClone.
+Added index.html

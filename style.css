@@ -1,0 +1,117 @@
+body{
+   background: fixed;
+   width: 100%;
+}
+#HeaderSection div{
+       height: 61px;
+       margin-right: 20px;
+}
+.nav-link i{
+   margin-left: 15px;
+   font-size: 22px;
+   /* padding: 0px 40px 0px 0px; */
+   letter-spacing: 0px;
+}
+
+.carousel-indicators button{
+   height: 10px !important;
+   width: 10px !important;
+   border-radius: 100%;
+   margin: 0px 7px !important;
+   background-color: #117a7a !important;
+}
+.carousel-indicators{
+   position: absolute;
+   top: 480px;
+}
+h1{
+   text-align: center;
+   font-size: 25px;
+   font-weight: 700;
+   color:#282c3f ;
+}
+#FANDOMSECTION{
+   margin-top: 70px;
+}
+#FANDOMSECTION1 div img{
+   width: 425px;
+   margin: 25px 10px;
+}
+#ArrivalSection{
+   /* margin-top: 70%; */
+}
+#ArrivalSection1 div img{
+   width: 300px;
+   margin: 30px 16.5px;
+}
+#LatestSection{
+   margin-top: 5%;
+}
+#LatestSection1 div img{
+   width: 400px;
+   margin: 25px 23px;
+}
+#CategoriesSection img{
+   width: 421px;
+   margin: 15px 10px;
+}
+#CategoriesSection h1{
+   margin-top: 30px;
+}
+#CategoriesSection1 img{
+   width: 320px;
+   margin: 10px 5px;
+}
+#CategoriesSection2 img{
+   width: 320px;
+   margin: 10px 5px;
+}
+#CategoriesSection3 img{
+   width: 320px;
+   margin: 10px 5px;
+}
+#TopSection div img{
+   width: 315px;
+   margin: 25px 8px;
+}
+#TopSection h1{
+   margin-top: 40px;
+}
+#MembershipSection h1{
+   margin-top: 50px;
+   margin-bottom: 30px;
+}
+#StraightSection h1{
+   margin-top: 35px;
+   margin-bottom: 35px;
+}
+#OfficialSection h1{
+   margin-top: 35px;
+   margin-bottom: 35px;
+}
+#OfficialSection div img{
+   width: 250px;
+   margin: 25px 7px;
+}
+#home h1{
+   margin-top: 10px;
+   text-align: center;
+   background-color: red;
+   color: white;
+   height: 70px;
+   padding: 15px 0px;
+   font-weight: 400;
+   font-size: 35px;
+   letter-spacing: 2px;
+}
+#Over h1{
+   height: 80px;
+   padding: 10px 0px;
+   font-size: 45px;
+   color: black;
+   font-weight: 400;
+}
+#table{
+   background-color: #e6e7e8;
+   
+}
